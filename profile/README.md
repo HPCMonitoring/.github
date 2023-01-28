@@ -2,7 +2,7 @@
 
 ### 👋 Introduction
 
-We are a group of students from [HCMUT](https://hcmut.edu.vn). This orgarnization was established due to contains results of our thesis in 2023.
+We are a group of students from [HCMUT](https://hcmut.edu.vn). This orgarnization was established due to contain results of our thesis in 2023.
 
 <!-- Contribution guidelines - how can the community get involved? -->
 
