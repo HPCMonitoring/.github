@@ -1,12 +1,10 @@
 ## HPC Monitoring
 
-### 🚀 Description
-
 After using and researching about many technologies of system monitoring like Prometheus and Zabbix, we found that each of them has some drawbacks and not suitable for HPC system in Ho Chi Minh University of Technology (HCMUT).
 
 To serve special demands of our university's HPC system, this project provides a monitoring tool that approach problem in a new way: **Event-Driven Architecture**.
 
-### 🔧 Functionalities
+### 🚀 Functionalities
 
 With modern tool Apache Kafka, we build a monitoring system with functions:
 
