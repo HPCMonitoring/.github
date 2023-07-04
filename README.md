@@ -1,3 +1,4 @@
-# .github
+## Deploy guideline
 
-This is an organization profile repository
+### [Sensor manager](https://github.com/HPCMonitoring/sensor-manager-api) & [Sensor manager UI](https://github.com/HPCMonitoring/sensor-manager)
+
